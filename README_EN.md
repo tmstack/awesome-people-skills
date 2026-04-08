@@ -46,6 +46,8 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Taotie.skill | Feed excellent Skills to Taotie, and let your Skill evolve itself | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
 | Donald Trump.skill | Negotiation/Power/Communication/Behavior Prediction | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | Zhang Yiming.skill | Product/Organization/Globalization/Talent | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+| FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+| She.skill | All logical branches eventually recurse back to her name | [ceetity/her-skill](https://github.com/ceetity/her-skill) |
 
 ---
 

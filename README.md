@@ -46,6 +46,8 @@
 | 饕餮.skill | 把优秀的 Skill 喂给饕餮，让你的 Skill 自己进化。 | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
 | 特朗普.skill | 谈判/权力/传播/行为预判 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 产品/组织/全球化/人才 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+| 峰哥.skill | B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+| 她.skill | 所有的逻辑分叉，最终都会递归回她的名字 | [ceetity/her-skill](https://github.com/ceetity/her-skill) |
 
 ---
 

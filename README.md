@@ -1,10 +1,10 @@
 # Awesome Persona Skills
 
 ## 各种可以蒸馏的skill
->想体验被蒸馏的感觉吗？与其让别人蒸馏自己，不如抢先一步蒸馏别人
-
 [English](./README_EN.md) | 简体中文
 
+>想体验被蒸馏的感觉吗？与其让别人蒸馏自己，不如抢先一步蒸馏别人
+>
 > 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  
 > **万物皆可 skill**
 

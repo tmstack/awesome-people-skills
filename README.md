@@ -1,11 +1,11 @@
-# Awesome Persona Skills
+# 各种可以蒸馏的skill
+>想体验被蒸馏的感觉吗？与其让别人蒸馏自己，不如抢先一步蒸馏别人
 
 [English](./README_EN.md) | 简体中文
 
 > 同事.skill、老板.skill、前任.skill、自己.skill、永生.skill、女娲.skill……  
 > **万物皆可 skill**
 
-与其等着被别人蒸，不如先蒸自己。  
 不蒸馒头争口气 —— 顺便还能蒸馏下身边的人。
 
 ---
@@ -18,10 +18,10 @@
 |------|------|------|
 | 同事.skill | 将冰冷的离别化为温暖的 Skill | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) |
 | 老板.skill | 把老板的聊天记录、会议纪要、批注和项目材料蒸馏成 Skill | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) |
-| 导师.skill | 把导师蒸馏成随时可问的 AI Skill | [ybq22/supervisor](https://github.com/ybq22/supervisor) |
+| 导师.skill | 导师不回答你？那就把导师变成秒回消息的导师| [ybq22/supervisor](https://github.com/ybq22/supervisor) |
 | 大学老师.skill | 老师不划重点，那就自己造一个会划重点的老师 | [CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
 | 师兄.skill | 把毕业的大师兄蒸馏成一个能继续开组会、骂醒你、顺手救火的 AI Skill | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
-| 反蒸馏.skill | 公司让你写 Skill？跑一遍，交差用，核心知识留给自己 | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
+| 反蒸馏.skill | 公司让你写 Skill？把自己变成随叫随到的AI？想都别想| [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
 
 ### ❤️ 人际关系
 
@@ -84,8 +84,6 @@
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
 
 ---
-
-## 🧠 一句话哲学
 
 > **万物皆可 skill，人生处处是蒸馏。**
 

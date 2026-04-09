@@ -43,7 +43,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Immortal.skill | Don't just steam buns to prove a point! While you're at it, distill the people around you too | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
 | RetailInvestor.skill | If I had another chance, I would definitely sell when I'm making money | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
 
-### 💡 Business Minds & Celebrity Wisdom
+### 💡 Business Mindset and Internet Celebrities
 
 | Character Role | Description | Repository |
 |------|------|------|

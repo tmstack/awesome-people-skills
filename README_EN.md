@@ -45,7 +45,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Relic.skill | Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | RetailInvestor.skill | If I had another chance, I would definitely sell when I'm making money | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
 
-### 💡 Business Mindset and Internet Celebrities
+### 💡 Business Mindset
 
 | Character Role | Description | Repository |
 |------|------|------|
@@ -60,9 +60,15 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | Zizek.skill | Uncover the assumptions you didn't know you were making about things you thought you understood | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
 | Trump.skill | Negotiation/Power/Communication/Behavior Prediction | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | ZhangYiming.skill | Product/Organization/Globalization/Talent | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+
+### 📱 Internet Celebrities
+
+| Character Role | Description | Repository |
+|------|------|------|
 | FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
+| TongJincheng.skill | Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 | Khazix.skill | Open-source AI Skills collection from digital life Khazix | [KKKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ### 🙏 Traditional Culture & Philosophy

@@ -45,7 +45,7 @@
 | Relic.skill | 万物皆可 Relic — 不只蒸馏人，宠物、关系、地方、团队、时刻都能永生 | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
 | 韭菜.skill | 如果再给我一次机会，我一定会在赚钱的时候卖掉 | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
 
-### 💡 商业思维与网络名人
+### 💡 商业思维
 
 | 人物角色 | 介绍 | 仓库 |
 |------|------|------|
@@ -60,7 +60,13 @@
 | 齐泽克.skill | 把你自以为想清楚了的东西，翻出你没意识到自己在默认的那一层 | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
 | 特朗普.skill | 谈判/权力/传播/行为预判 | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
 | 张一鸣.skill | 产品/组织/全球化/人才 | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+
+### 📱 网络名人
+
+| 人物角色 | 介绍 | 仓库 |
+|------|------|------|
 | 峰哥.skill | B 站纪录片创作者 峰哥亡命天涯（周丽峰）的思维操作系统 | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
+| 童锦程.skill | 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心。 | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 | 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
 | 卡兹克.skill | 数字生命卡兹克开源的 AI Skills 合集 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |

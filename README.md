@@ -115,6 +115,7 @@
 | 女娲.skill | 女娲帮你蒸馏任何人的思维方式，让乔布斯、马斯克、芒格、费曼都给你打工 | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
 | X导师.skill | 格式化是你能对写作做的最简单的10倍提升 | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
 | 博主.skill | 把公开社交媒体语料整理成一个能对话、能分析、能改写风格的 Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
+| 图鉴.skill | 跨作者 persona skill 调度器，根据对话意图从 persona skill 列表中智能匹配推荐 | [Aar0nPB/curator-skill](https://github.com/Aar0nPB/curator-skill) |
 
 
 ---

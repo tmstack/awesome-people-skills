@@ -89,6 +89,7 @@
 | 童锦程.skill | 让深情祖师爷童锦程用他的直白和人性洞察，帮你看透关系、读懂人心。 | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 | 张雪峰.skill | 教育/职业规划/阶层流动 | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | 户晨风.skill | 用"购买力挑战"创作者户晨风的视角，帮你看消费选择、城市定居和个人发展 | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
+| 凉兮 skills | 从公开可见的 X 内容与交易复盘中提炼凉兮的结构判断、风险习惯与中文交易表达 | [1sh1ro/liangxi-skills](https://github.com/1sh1ro/liangxi-skills) |
 | 卡兹克.skill | 数字生命卡兹克开源的 AI Skills 合集 | [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 
 ### 🙏 传统文化与哲学

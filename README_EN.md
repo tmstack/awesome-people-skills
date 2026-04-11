@@ -86,6 +86,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 | FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
 | ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
 | HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
+| Liangxi Skills | Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays | [1sh1ro/liangxi-skills](https://github.com/1sh1ro/liangxi-skills) |
 | TongJincheng.skill | Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
 | Khazix.skill | Open-source AI Skills collection from digital life Khazix | [KKKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
 

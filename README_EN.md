@@ -32,95 +32,79 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 
 ### 💼 Workplace & Academia
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Colleague.skill | Turn cold departures into warm Skills | [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) |
-| Boss.skill | Distill your boss's chat history, meeting notes, comments, and project materials into a Skill | [vogtsw/boss-skills](https://github.com/vogtsw/boss-skills) |
-| Supervisor.skill | Distill your supervisor into an AI Skill you can ask anytime | [ybq22/supervisor](https://github.com/ybq22/supervisor) |
-| Professor.skill | If the teacher doesn't highlight key points, then create a teacher who does | [CommitHu502Craft/professor-skill](https://github.com/CommitHu502Craft/professor-skill) |
-| Senpai.skill | Distill your graduated senior into an AI Skill that continues lab meetings, wakes you up, and puts out fires | [zhanghaichao520/senpai-skill](https://github.com/zhanghaichao520/senpai-skill) |
-| HR.skill | Generate a perfectly worded, bullshit-filled, heartbreaking rejection letter | [Schlaflied/hr-skill](https://github.com/Schlaflied/hr-skill) |
-| Anti-Distill.skill | Company wants you to write a Skill? Run this once, turn it in, keep the core knowledge to yourself | [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill) |
+- [Colleague.skill](https://github.com/titanwings/colleague-skill) - Turn cold departures into warm Skills
+- [Boss.skill](https://github.com/vogtsw/boss-skills) - Distill your boss's chat history, meeting notes, comments, and project materials into a Skill
+- [Supervisor.skill](https://github.com/ybq22/supervisor) - Distill your supervisor into an AI Skill you can ask anytime
+- [Professor.skill](https://github.com/CommitHu502Craft/professor-skill) - If the teacher doesn't highlight key points, then create a teacher who does
+- [Senpai.skill](https://github.com/zhanghaichao520/senpai-skill) - Distill your graduated senior into an AI Skill that continues lab meetings, wakes you up, and puts out fires
+- [HR.skill](https://github.com/Schlaflied/hr-skill) - Generate a perfectly worded, bullshit-filled, heartbreaking rejection letter
+- [Anti-Distill.skill](https://github.com/leilei926524-tech/anti-distill) - Company wants you to write a Skill? Run this once, turn it in, keep the core knowledge to yourself
 
 ### ❤️ Relationships
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Crush.skill | I would return to that heartbeat moment for you ten thousand times | [xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) |
-| First Love.skill | In all the years since, I've welcomed countless midsummers | [z969081067-commits/first-love-skill](https://github.com/z969081067-commits/first-love-skill) |
-| Ex.skill | I would return to that summer for you ten thousand times | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) |
-| Partner.skill | Since we decided to be together, let's make this summer last forever | [NatalieCao323/partner-skill](https://github.com/NatalieCao323/partner-skill) |
-| Her.skill | All logical branches eventually recurse back to her name | [ceetity/her-skill](https://github.com/ceetity/her-skill) |
-| Parents.skill | Every conversation is companionship across time and space | [xiaoheizi8/parents-skills](https://github.com/xiaoheizi8/parents-skills) |
-| Brother.skill | Turn cold goodbyes into warm Skills — welcome to cyber brotherhood immortality | [realteamprinz/brother-skill](https://github.com/realteamprinz/brother-skill) |
+- [Crush.skill](https://github.com/xiaoheizi8/crush-skills) - I would return to that heartbeat moment for you ten thousand times
+- [First Love.skill](https://github.com/z969081067-commits/first-love-skill) - In all the years since, I've welcomed countless midsummers
+- [Ex.skill](https://github.com/therealXiaomanChu/ex-skill) - I would return to that summer for you ten thousand times
+- [Partner.skill](https://github.com/NatalieCao323/partner-skill) - Since we decided to be together, let's make this summer last forever
+- [Her.skill](https://github.com/ceetity/her-skill) - All logical branches eventually recurse back to her name
+- [Parents.skill](https://github.com/xiaoheizi8/parents-skills) - Every conversation is companionship across time and space
+- [Brother.skill](https://github.com/realteamprinz/brother-skill) - Turn cold goodbyes into warm Skills — welcome to cyber brotherhood immortality
 
 ### 🌟 Self-Development
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Yourself.skill | Instead of distilling others, why not distill yourself | [notdog1998/yourself-skill](https://github.com/notdog1998/yourself-skill) |
-| DigitalLife.skill | You are not defined by data. But you are slowly shaped by the traces you leave behind | [wildbyteai/digital-life](https://github.com/wildbyteai/digital-life) |
-| Immortal.skill | Don't just steam buns to prove a point! While you're at it, distill the people around you too | [agenmod/immortal-skill](https://github.com/agenmod/immortal-skill) |
-| Relic.skill | Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments | [Ylsssq926/relic.skill](https://github.com/Ylsssq926/relic.skill) |
-| RetailInvestor.skill | If I had another chance, I would definitely sell when I'm making money | [tmstack/retail-investors](https://github.com/tmstack/retail-investors) |
+- [Yourself.skill](https://github.com/notdog1998/yourself-skill) - Instead of distilling others, why not distill yourself
+- [DigitalLife.skill](https://github.com/wildbyteai/digital-life) - You are not defined by data. But you are slowly shaped by the traces you leave behind
+- [Immortal.skill](https://github.com/agenmod/immortal-skill) - Don't just steam buns to prove a point! While you're at it, distill the people around you too
+- [Relic.skill](https://github.com/Ylsssq926/relic.skill) - Everything deserves a Relic — not just people, but pets, relationships, places, teams, and moments
+- [RetailInvestor.skill](https://github.com/tmstack/retail-investors) - If I had another chance, I would definitely sell when I'm making money
 
 ### 💡 Business Mindset
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Buffett.skill | Buffett Thinking Operating System | [will2025btc/buffett-perspective](https://github.com/will2025btc/buffett-perspective) |
-| DuanYongping.skill | Buying stocks is buying companies; buying companies is buying their future discounted cash flows | [derrickgong87/duan-yongping-skill](https://github.com/derrickgong87/duan-yongping-skill) |
-| SteveJobs.skill | Product/Design/Strategy | [alchaincyf/steve-jobs-skill](https://github.com/alchaincyf/steve-jobs-skill) |
-| ElonMusk.skill | Engineering/Cost/First Principles | [alchaincyf/elon-musk-skill](https://github.com/alchaincyf/elon-musk-skill) |
-| Munger.skill | Investment/Multi-disciplinary Thinking/Inversion | [alchaincyf/munger-skill](https://github.com/alchaincyf/munger-skill) |
-| Feynman.skill | Learning/Teaching/Scientific Thinking | [alchaincyf/feynman-skill](https://github.com/alchaincyf/feynman-skill) |
-| Naval.skill | Wealth/Leverage/Life Philosophy | [alchaincyf/naval-skill](https://github.com/alchaincyf/naval-skill) |
-| Taleb.skill | Risk/Antifragility/Uncertainty | [alchaincyf/taleb-skill](https://github.com/alchaincyf/taleb-skill) |
-| Zizek.skill | Uncover the assumptions you didn't know you were making about things you thought you understood | [JikunR/zizek-skill](https://github.com/JikunR/zizek-skill) |
-| Trump.skill | Negotiation/Power/Communication/Behavior Prediction | [alchaincyf/trump-skill](https://github.com/alchaincyf/trump-skill) |
-| ZhangYiming.skill | Product/Organization/Globalization/Talent | [alchaincyf/zhang-yiming-skill](https://github.com/alchaincyf/zhang-yiming-skill) |
+- [Buffett.skill](https://github.com/will2025btc/buffett-perspective) - Buffett Thinking Operating System
+- [DuanYongping.skill](https://github.com/derrickgong87/duan-yongping-skill) - Buying stocks is buying companies; buying companies is buying their future discounted cash flows
+- [SteveJobs.skill](https://github.com/alchaincyf/steve-jobs-skill) - Product/Design/Strategy
+- [ElonMusk.skill](https://github.com/alchaincyf/elon-musk-skill) - Engineering/Cost/First Principles
+- [Munger.skill](https://github.com/alchaincyf/munger-skill) - Investment/Multi-disciplinary Thinking/Inversion
+- [Feynman.skill](https://github.com/alchaincyf/feynman-skill) - Learning/Teaching/Scientific Thinking
+- [Naval.skill](https://github.com/alchaincyf/naval-skill) - Wealth/Leverage/Life Philosophy
+- [Taleb.skill](https://github.com/alchaincyf/taleb-skill) - Risk/Antifragility/Uncertainty
+- [Zizek.skill](https://github.com/JikunR/zizek-skill) - Uncover the assumptions you didn't know you were making about things you thought you understood
+- [Trump.skill](https://github.com/alchaincyf/trump-skill) - Negotiation/Power/Communication/Behavior Prediction
+- [ZhangYiming.skill](https://github.com/alchaincyf/zhang-yiming-skill) - Product/Organization/Globalization/Talent
 
 ### 📱 Internet Celebrities
 
-| Character Role | Description | Repository |
-|------|------|------|
-| GuoDegang.skill | If the world and my elders can tolerate me, I won't make ill-gotten money | [ByteRax/guodegang-skills](https://github.com/ByteRax/guodegang-skills) |
-| FengGe.skill | Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system | [Walshyu/fengge-skill](https://github.com/Walshyu/fengge-skill) |
-| ZhangXuefeng.skill | Education/Career Planning/Social Mobility | [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill) |
-| HuChenfeng.skill | Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development | [Janlaywss/hu-chenfeng-skill](https://github.com/Janlaywss/hu-chenfeng-skill) |
-| Liangxi Skills | Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays | [1sh1ro/liangxi-skills](https://github.com/1sh1ro/liangxi-skills) |
-| TongJincheng.skill | Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight | [hotcoffeeshake/tong-jincheng-skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) |
-| Khazix.skill | Open-source AI Skills collection from digital life Khazix | [KKKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) |
+- [GuoDegang.skill](https://github.com/ByteRax/guodegang-skills) - If the world and my elders can tolerate me, I won't make ill-gotten money
+- [FengGe.skill](https://github.com/Walshyu/fengge-skill) - Bilibili documentary creator Feng Wangming Tianya's (Zhou Lifeng) cognitive operating system
+- [ZhangXuefeng.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - Education/Career Planning/Social Mobility
+- [HuChenfeng.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - Use creator Hu Chenfeng's "Purchasing Power Challenge" perspective to help you see consumption choices, city settlement, and personal development
+- [Liangxi Skills](https://github.com/1sh1ro/liangxi-skills) - Distill Liangxi's structural market reading, risk habits, and Chinese trading voice from public X posts and trade replays
+- [TongJincheng.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - Let the master of deep affection Tong Jincheng help you see through relationships and understand human nature with his directness and insight
+- [Khazix.skill](https://github.com/KKKKhazix/khazix-skills) - Open-source AI Skills collection from digital life Khazix
 
 ### 🙏 Traditional Culture & Philosophy
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Fortune.skill | Collect birth information through interactive dialogue, calculate Four Pillars (Bazi), and analyze based on nine classic texts | [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) |
-| DiamondSutra.skill | All forms are illusory. If you see all forms as not forms, you see the Tathagata | [dull-bird/diamond-sutra-skill](https://github.com/dull-bird/diamond-sutra-skill) |
-| YinYuan.skill | Cyber matchmaker, using traditional Chinese arts to calculate your marriage fate | [Ming-H/yinyuan-skills](https://github.com/Ming-H/yinyuan-skills) |
-| Master.skill | An AI learning companion based on the teaching style of ancient Chinese Buddhist masters | [xr843/Master-skill](https://github.com/xr843/Master-skill) |
-| MaoXuan.skill | Let the Mao Zedong's Selected Works thinking framework help you analyze problems, formulate strategies, and see through to the essence | [leezythu/maoxuan-skill](https://github.com/leezythu/maoxuan-skill) |
-| NewYouth.skill | New Youth comes to China to solve problems and knows how to solve them | [SamadhiFire/xinqingnian-skill](https://github.com/SamadhiFire/xinqingnian-skill) |
+- [Fortune.skill](https://github.com/jinchenma94/bazi-skill) - Collect birth information through interactive dialogue, calculate Four Pillars (Bazi), and analyze based on nine classic texts
+- [DiamondSutra.skill](https://github.com/dull-bird/diamond-sutra-skill) - All forms are illusory. If you see all forms as not forms, you see the Tathagata
+- [YinYuan.skill](https://github.com/Ming-H/yinyuan-skills) - Cyber matchmaker, using traditional Chinese arts to calculate your marriage fate
+- [Master.skill](https://github.com/xr843/Master-skill) - An AI learning companion based on the teaching style of ancient Chinese Buddhist masters
+- [MaoXuan.skill](https://github.com/leezythu/maoxuan-skill) - Let the Mao Zedong's Selected Works thinking framework help you analyze problems, formulate strategies, and see through to the essence
+- [NewYouth.skill](https://github.com/SamadhiFire/xinqingnian-skill) - New Youth comes to China to solve problems and knows how to solve them
 
 ### 🌈 Emotional Companionship
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Reunion.skill | Let departed loved ones continue to accompany you in another form through AI | [yangdongchen66-boop/reunion-skill](https://github.com/yangdongchen66-boop/reunion-skill) |
-| StarFan.skill | Your exclusive star-chasing companion, always online, always understanding, always capturing her essence | [yanghaoraneve/star-skill](https://github.com/yanghaoraneve/star-skill) |
-| Dobby.skill | You are the master, and Dobby is your house-elf | [LittleLittleCloud/Dobby](https://github.com/LittleLittleCloud/Dobby) |
+- [Reunion.skill](https://github.com/yangdongchen66-boop/reunion-skill) - Let departed loved ones continue to accompany you in another form through AI
+- [StarFan.skill](https://github.com/yanghaoraneve/star-skill) - Your exclusive star-chasing companion, always online, always understanding, always capturing her essence
+- [Dobby.skill](https://github.com/LittleLittleCloud/Dobby) - You are the master, and Dobby is your house-elf
 
 ### 🛠️ Tools
 
-| Character Role | Description | Repository |
-|------|------|------|
-| Taotie.skill | Feed excellent Skills to Taotie, and let your Skill evolve itself | [binggandata/bggg-skill-taotie](https://github.com/binggandata/bggg-skill-taotie) |
-| Nuwa.skill | Nuwa helps you distill anyone's thinking style — make Jobs, Musk, Munger, and Feynman all work for you | [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) |
-| X-Mentor.skill | Formatting is the simplest 10x improvement you can make to writing | [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill) |
-| Blogger.skill | Organize public social media posts into a conversational, analytical, style-rewritable Persona Skill | [YourongZhou/chat_with_me](https://github.com/YourongZhou/chat_with_me) |
-| Curator.skill | Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent | [Aar0nPB/curator-skill](https://github.com/Aar0nPB/curator-skill) |
-| SBTI.skill | A generator that packages SBTI personality archetypes into Agent Skills | [whu125/sbti-skill](https://github.com/whu125/sbti-skill) |
+- [Taotie.skill](https://github.com/binggandata/bggg-skill-taotie) - Feed excellent Skills to Taotie, and let your Skill evolve itself
+- [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill) - Nuwa helps you distill anyone's thinking style — make Jobs, Musk, Munger, and Feynman all work for you
+- [X-Mentor.skill](https://github.com/alchaincyf/x-mentor-skill) - Formatting is the simplest 10x improvement you can make to writing
+- [Blogger.skill](https://github.com/YourongZhou/chat_with_me) - Organize public social media posts into a conversational, analytical, style-rewritable Persona Skill
+- [Curator.skill](https://github.com/Aar0nPB/curator-skill) - Cross-author persona skill scheduler that intelligently matches and recommends from persona skill lists based on conversation intent
+- [SBTI.skill](https://github.com/whu125/sbti-skill) - A generator that packages SBTI personality archetypes into Agent Skills
 
 ---
 

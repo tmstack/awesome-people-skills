@@ -51,6 +51,7 @@
 - [她.skill](https://github.com/ceetity/her-skill) - 所有的逻辑分叉，最终都会递归回她的名字
 - [父母.skill](https://github.com/xiaoheizi8/parents-skills) - 每一次对话，都是穿越时空的陪伴
 - [兄弟.skill](https://github.com/realteamprinz/brother-skill) - 把冰冷的告别变成温暖的Skill——欢迎来到赛博兄弟永生
+- [相亲.skill](https://github.com/YuzeHao2023/love-skill) - 正式恋爱之前先蒸馏双方赛博恋爱-通过消耗AI token节省真人token
 
 ### 自我成长
 

@@ -91,6 +91,7 @@ Don't just steam buns to prove a point — while you're at it, distill the peopl
 - [Master.skill](https://github.com/xr843/Master-skill) - An AI learning companion based on the teaching style of ancient Chinese Buddhist masters
 - [MaoXuan.skill](https://github.com/leezythu/maoxuan-skill) - Let the Mao Zedong's Selected Works thinking framework help you analyze problems, formulate strategies, and see through to the essence
 - [NewYouth.skill](https://github.com/SamadhiFire/xinqingnian-skill) - New Youth comes to China to solve problems and knows how to solve them
+- [YongleDadian.skill](https://github.com/momozi1996/yongledadian-skill) - The largest encyclopedia in history, a monumental work of Chinese civilization spanning 600 years — the Yongle Dadian lives on!
 
 ### Emotional Companionship
 

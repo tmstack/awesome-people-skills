@@ -93,7 +93,7 @@
 - [金刚经.skill](https://github.com/dull-bird/diamond-sutra-skill) - 凡所有相，皆是虚妄。若见诸相非相，即见如来
 - [毛选.skill](https://github.com/leezythu/maoxuan-skill) - 让毛选的思维框架帮你分析问题、制定策略、看透本质
 - [新青年.Skill](https://github.com/SamadhiFire/xinqingnian-skill) - 新青年来中国是能解决问题，会解决问题的
-
+- [永乐大典.skill](https://github.com/momozi1996/yongledadian-skill) - 世界有史以来最大的百科全书、华夏文明 600 年的超级著作，永乐大典，永存！
 
 ### 情感陪伴
 
@@ -117,6 +117,8 @@
 - [PPT.skill](https://github.com/op7418/guizang-ppt-skill) - 制作电子杂志风网页 PPT
 
 ---
+
+
 
 > **万物皆可 skill，人生处处是蒸馏。**
 
